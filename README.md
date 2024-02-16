@@ -1,12 +1,16 @@
 # golang-upload-file-project
 
+## Specification of application
+```
+can't upload file more than 10MB
+```
 ## Download repository
 
 ```
 git clone https://github.com/khowpchom/golang-upload-file-project.git
 ```
 
-# Create .env on root patch of golang-upload-file-project and copy content below
+## Create .env on root patch of golang-upload-file-project and copy content below
 ```
 PORT=8000
 MONGOURI=mongodb+srv://poonyaveechom:hflektGl07wsbTqd@cluster0.757cikp.mongodb.net
